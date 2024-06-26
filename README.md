@@ -18,5 +18,5 @@ Follow these instructions to get the project up and running on your local machin
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/amazon-sales-analysis.git
-   cd amazon-sales-analysis
+   git clone https://github.com/kunzbhatia/Python-Sales-Analysis.git
+   cd Python-Sales-Analysis
